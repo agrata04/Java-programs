@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<bundle bundleID="426" class="Hello.Activator" localization="OSGI-INF/l10n/bundle" name="Acceleo myproject Module IDE Plug-in" project="Hello" provider="Eclipse Modeling Project"/>
+</map>
